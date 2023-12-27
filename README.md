@@ -7,3 +7,7 @@ In this Bootcamp, you will build the projects in the above given use cases.
 ## Skills:
 
 Python, Machine Learning, Transformers (BERT, GPT), Prompt Engineering, LangChain, GenAI Stack, Llama-Index, LLMs, Huggingface, RAG.
+
+https://aiplanet.com/notebooks/6385/leandro_data/assessment
+
+https://aiplanet.com/
